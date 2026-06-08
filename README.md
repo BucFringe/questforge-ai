@@ -16,7 +16,7 @@ What it generates:
 - Faction-aware NPCs — if the job involves the Thieves' Guild, you get a named guild member
 - Loot tables and enemy/antagonist concepts scaled to party level
 - Failure and success consequences that ripple into future sessions
-- 
+
 ## Prerequisites
 - [Ollama](https://ollama.ai) installed and running
 - At least one model pulled — recommended: `ollama pull llama3.1` or `ollama pull mistral`
