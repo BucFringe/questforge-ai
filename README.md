@@ -1,3 +1,9 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![HTML](https://img.shields.io/badge/Built%20with-HTML%2FJS-orange)
+![Ollama](https://img.shields.io/badge/Powered%20by-Ollama-blue)
+![D&D](https://img.shields.io/badge/For-D%26D%205e-red)
+![No Install](https://img.shields.io/badge/No%20Install-Just%20Open-green)
+
 # QuestForge
 An AI-powered D&D 5e quest board generator — runs entirely on your machine.
 QuestForge is a single HTML file that turns your local Ollama AI into a Dungeon Master's prep assistant. Describe your town, set the party's level, and generate a full adventurers' guild notice board in seconds — no internet, no API keys, no subscription.
