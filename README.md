@@ -16,6 +16,20 @@ What it generates:
 - Faction-aware NPCs — if the job involves the Thieves' Guild, you get a named guild member
 - Loot tables and enemy/antagonist concepts scaled to party level
 - Failure and success consequences that ripple into future sessions
+- 
+## Prerequisites
+- [Ollama](https://ollama.ai) installed and running
+- At least one model pulled — recommended: `ollama pull llama3.1` or `ollama pull mistral`
+- Any modern browser (Chrome, Firefox, Edge)
+- No internet connection required after setup
+
+## Recommended Models
+| Model | Quality | Speed | Notes |
+|-------|---------|-------|-------|
+| `llama3.1` | ⭐⭐⭐⭐⭐ | Medium | Best overall output |
+| `mistral` | ⭐⭐⭐⭐ | Fast | Good JSON compliance |
+| `llama3.2` | ⭐⭐⭐⭐ | Fast | Solid, widely available |
+| `phi3` | ⭐⭐⭐ | Very fast | Shorter outputs |
 
 ## Export to Obsidian:
 One markdown file per quest, one per NPC, with YAML frontmatter and [[wikilinks]] already connected. Drop the ZIP straight into your vault.
