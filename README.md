@@ -47,3 +47,9 @@ Fully local. All generation runs through Ollama on your own machine. Your campai
 
 ![History](docs/images/4.png)
 *A full history of what is generated*
+
+## Support
+
+If QuestForge has saved you some DM prep time, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Every%20coffee%20keeps%20the%20torch&emoji=&slug=bucfringe&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/bucfringe)
