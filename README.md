@@ -34,3 +34,16 @@ What it generates:
 ## Export to Obsidian:
 One markdown file per quest, one per NPC, with YAML frontmatter and [[wikilinks]] already connected. Drop the ZIP straight into your vault.
 Fully local. All generation runs through Ollama on your own machine. Your campaign stays yours.
+
+## Images
+![The job board filled with contracts](docs/images/1.png)
+*A full board generated for Ashenveil*
+
+![DM Guide expanded](docs/images/2.png)
+*Each quest includes a full DM session guide with read-aloud text and difficulty controls*
+
+![NPC stat block](docs/images/3.png)
+*Every NPC gets a complete D&D 5e stat block*
+
+![History](docs/images/4.png)
+*A full history of what is generated*
